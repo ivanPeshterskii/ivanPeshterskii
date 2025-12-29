@@ -52,9 +52,6 @@ Associate Degree – **C# Full Stack Development**
 - **MVC projects**
 - Continuous practice through GitHub repositories
 
-👉 **GitHub Portfolio:**  
-https://github.com/ivanPeshterskii
-
 ---
 
 ## 🌐 Socials
