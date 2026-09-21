@@ -1,6 +1,6 @@
 # Hi, I am Ivan Peshterski 👋
 
-🎓 Student – 10th Grade  
+🎓 Student – 11th Grade  
 💻 Junior C# Developer (in training)  
 🚀 Passionate about software development and problem solving  
 
